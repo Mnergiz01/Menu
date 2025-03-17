@@ -1,0 +1,55 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "Tatlılar",
+        "image": "/images/tatlilar.jpg",
+        "subcategories": [
+          {
+            "id": 101,
+            "name": "Sütlü Tatlılar",
+            "image": "/images/sutlu-tatlilar.jpg",
+            "products": [
+              { "id": 1001, "name": "Sütlaç", "price": 18.00, "image": "/images/sutlac.jpg" },
+              { "id": 1002, "name": "Kazandibi", "price": 22.00, "image": "/images/kazandibi.jpg" }
+            ]
+          },
+          {
+            "id": 102,
+            "name": "Şerbetli Tatlılar",
+            "image": "/images/serbetli-tatlilar.jpg",
+            "products": [
+              { "id": 1003, "name": "Baklava", "price": 40.00, "image": "/images/baklava.jpg" },
+              { "id": 1004, "name": "Kadayıf", "price": 35.00, "image": "/images/kadayif.jpg" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "İçecekler",
+        "image": "/images/icecekler.jpg",
+        "subcategories": [
+          {
+            "id": 201,
+            "name": "Sıcak İçecekler",
+            "image": "/images/sicak-icecekler.jpg",
+            "products": [
+              { "id": 2001, "name": "Türk Kahvesi", "price": 15.00, "image": "/images/turk-kahvesi.jpg" },
+              { "id": 2002, "name": "Cappuccino", "price": 20.00, "image": "/images/cappuccino.jpg" }
+            ]
+          },
+          {
+            "id": 202,
+            "name": "Soğuk İçecekler",
+            "image": "/images/soguk-icecekler.jpg",
+            "products": [
+              { "id": 2003, "name": "Limonata", "price": 12.00, "image": "/images/limonata.jpg" },
+              { "id": 2004, "name": "Ayran", "price": 8.00, "image": "/images/ayran.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
